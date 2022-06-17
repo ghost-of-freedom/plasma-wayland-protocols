@@ -4,4 +4,4 @@ Dependencies:
     'frameworks/extra-cmake-modules': '@stable'
 
 Options:
-  test-before-installing: True
+  test-before-installing: False
